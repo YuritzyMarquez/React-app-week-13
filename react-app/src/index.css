@@ -1,0 +1,34 @@
+#border{
+  border-style: solid;
+  border-color: black;
+}
+
+#center {
+  position: relative;
+  left: 640px;
+}
+
+.formDown{
+  position: relative;
+  top: 100px;
+}
+
+#navUp {
+  position: relative;
+  bottom: 260px;
+}
+
+.width{
+  width: 500px;
+
+}
+
+.centerForm{
+  position: relative;
+  left: 470px;
+}
+
+#buttonCenter{
+  position: relative;
+  left: 200px;
+}
